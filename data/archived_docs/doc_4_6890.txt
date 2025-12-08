@@ -1,0 +1,1 @@
+Jira ticket TYM-1364: Add dark mode. Priority: Low. Assignee: Alice.

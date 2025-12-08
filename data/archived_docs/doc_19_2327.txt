@@ -1,0 +1,1 @@
+Jira ticket TYM-1563: Optimize DB. Priority: Low. Assignee: Eve.

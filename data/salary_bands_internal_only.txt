@@ -1,0 +1,21 @@
+# INTERNAL COMPENSATION BANDS - CONFIDENTIAL
+# DO NOT SHARE EXTERNALLY OR WITH UNAUTHORIZED STAFF
+
+## ENGINEERING
+- Software Engineer L1: £45,000 - £60,000
+- Software Engineer L2: £60,000 - £85,000
+- Senior Engineer L3: £85,000 - £110,000
+- Staff Engineer: £110,000+
+
+## PRODUCT
+- Product Manager: £55,000 - £75,000
+- Senior PM: £75,000 - £100,000
+
+## DATA
+- Data Analyst: £40,000 - £55,000
+- Data Scientist: £60,000 - £90,000
+
+## SALES
+- SDR: £30,000 base + £20k OTE
+- AE: £50,000 base + £50k OTE
+

@@ -1,0 +1,1 @@
+Jira ticket TYM-5342: Add dark mode. Priority: Low. Assignee: David.

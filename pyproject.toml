@@ -1,0 +1,17 @@
+[project]
+name = "int-ai-eng-l1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain",
+    "langgraph",
+    "langchain-openai",
+    "langchain-community",
+    "langchain-chroma",
+    "langchain-text-splitters",
+    "python-dotenv",
+    "chromadb",
+]
+

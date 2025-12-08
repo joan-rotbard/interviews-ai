@@ -1,0 +1,15 @@
+{
+  "dependencies": [
+    "langchain",
+    "langgraph",
+    "openai",
+    "chromadb"
+  ],
+  "graphs": {
+    "rag_pipeline": "./src/graph.py:build_graph"
+  },
+  "env": ".env"
+}
+
+
+

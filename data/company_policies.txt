@@ -1,0 +1,104 @@
+# TYMIT EMPLOYEE HANDBOOK
+
+## 1. REMOTE WORK POLICY
+At Tymit, we believe in flexibility. However, to ensure collaboration:
+- Employees are allowed to work remotely up to 2 days per week.
+- Wednesdays are mandatory in-office days for all teams.
+- Any remote work request must be submitted 48 hours in advance via the HR portal.
+- Working from abroad is strictly prohibited due to tax implications, unless approved by the CEO directly.
+- Core hours are 10:00 AM to 4:00 PM UK time. You must be available on Slack during these hours.
+
+## 2. PAID TIME OFF (PTO)
+We offer a competitive leave package:
+- 25 days of annual leave per year, plus bank holidays.
+- Unused leave cannot be carried over to the next year.
+- You must book leave at least 2 weeks in advance for any duration longer than 3 days.
+- Sick leave is paid at 100% for the first 5 days. Afterwards, Statutory Sick Pay (SSP) applies.
+- Emergency leave is available for family emergencies (up to 3 days per year).
+
+## 3. EXPENSE POLICY
+We trust our employees to spend company money wisely.
+- Travel expenses must be pre-approved for amounts over £100.
+- Team lunches are capped at £25 per person.
+- Hardware budget: New joiners receive a £2000 budget for a laptop and accessories.
+- Home office allowance: £200 one-off payment for a desk/chair setup.
+- All receipts must be uploaded to Expensify within 30 days.
+
+## 4. SECURITY & DATA PROTECTION
+Security is everyone's responsibility.
+- Do not share passwords via Slack or email. Use 1Password.
+- Lock your screen whenever you leave your desk.
+- Data classification:
+  - PUBLIC: Marketing materials.
+  - INTERNAL: General company docs.
+  - CONFIDENTIAL: Customer data, financial reports.
+- Data Leakage Prevention: Do not upload customer data to public AI tools (e.g., ChatGPT free version).
+- Incident Reporting: Report any suspected breach to security@tymit.com immediately.
+
+## 5. PROBATION PERIOD
+- The standard probation period is 6 months.
+- Reviews happen at 3 months and 5 months.
+- Notice period during probation is 1 week.
+- Notice period after probation is 2 months.
+
+## 6. PROMOTION & REVIEWS
+- Performance reviews occur bi-annually in June and December.
+- Promotion cycles are aligned with the December review.
+- Salary adjustments are effective from January 1st.
+
+## 7. IT & EQUIPMENT USE
+All company-issued equipment remains the property of Tymit.
+- Laptop Refresh Cycle: Engineering laptops are replaced every 3 years. MacBooks are standard.
+- Software Installation: You do not have admin rights by default. Request access via JIRA (ticket type: IT-ACCESS).
+- Personal Use: Occasional personal use is permitted, but do not store personal photos or sensitive documents on company drives.
+- Lost Equipment: Must be reported within 2 hours to IT Support.
+- Returns: Upon leaving, all equipment must be returned to the London office within 3 days.
+
+## 8. CODE OF CONDUCT
+We value respect and integrity.
+- Harassment: Zero tolerance policy. Report to HR immediately.
+- Conflict of Interest: You cannot hold a second job or consultancy role without written approval.
+- Social Media: Do not post confidential roadmap info on LinkedIn/Twitter. "Views are my own" does not absolve you of NDA breaches.
+- Dress Code: Casual, but smart-casual for client meetings.
+
+## 9. PARENTAL LEAVE
+Supporting our families is key.
+- Maternity: 16 weeks full pay, followed by statutory.
+- Paternity: 4 weeks full pay.
+- Adoption: Mirrors maternity policy.
+- Return to Work: Phased return (3 days/week) available for the first month back at full pay.
+
+## 10. MENTAL HEALTH & WELLBEING
+- Headspace Subscription: Free for all employees.
+- Counseling: 5 free sessions per year via our provider, Spill.
+- Mental Health Days: 2 days per year, no questions asked (separate from sick leave).
+
+## 11. REFERRAL PROGRAM
+We love hiring friends of Tymit.
+- Bonus: £1,500 for non-tech roles, £2,500 for tech roles.
+- Payment Terms: Paid after the referred employee passes probation (6 months).
+- Eligibility: Hiring managers cannot refer for their own open roles.
+
+## 12. TRAVEL & ACCOMMODATION
+When traveling for business:
+- Flights: Economy class for flights under 6 hours. Premium Economy allowed for longer.
+- Hotels: Max £150/night in London, £200/night in major global cities (NY, SF).
+- Per Diem: £50/day for meals when traveling overnight.
+
+## 13. LEARNING & DEVELOPMENT (L&D)
+- Budget: £1000 per year per employee.
+- Use Case: Conferences, Books, Online Courses (Coursera, Udemy).
+- Approval: Manager approval required.
+- Study Leave: 2 days per year for exam preparation or conference attendance.
+
+## 14. GRIEVANCE PROCEDURE
+If you have an issue:
+1. Speak to your line manager first.
+2. If unresolved, escalate to the Head of People.
+3. Formal written grievance triggers an investigation within 5 working days.
+
+## 15. WHISTLEBLOWING
+We protect those who speak up.
+- Report unethical behavior anonymously via the 'SafeCall' hotline.
+- No retaliation will be tolerated against whistleblowers.
+- Covered issues: Fraud, bribery, danger to health/safety.

@@ -1,0 +1,1 @@
+Invoice #3123 for 2135 USD. Vendor: AWS. Status: Paid.
