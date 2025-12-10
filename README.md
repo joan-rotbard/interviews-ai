@@ -42,6 +42,8 @@ Prioritize what you think will have the biggest impact. We value pragmatic engin
 - `src/nodes/`: Individual graph nodes (Retrieval, Generation).
 - `ingest.py`: Script for indexing data into the Vector DB.
 
+Send compressed folder with results to jrotbard@volans.world
+
 ## Good Luck!
 
 
